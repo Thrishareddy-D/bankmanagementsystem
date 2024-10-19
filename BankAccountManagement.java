@@ -1,4 +1,3 @@
-# bankmanagementsystem
 import java.security.SecureRandom;
 import java.util.HashMap;
 import java.util.Map;
